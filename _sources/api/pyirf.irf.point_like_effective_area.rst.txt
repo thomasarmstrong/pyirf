@@ -1,0 +1,6 @@
+point_like_effective_area
+=========================
+
+.. currentmodule:: pyirf.irf
+
+.. autofunction:: point_like_effective_area
